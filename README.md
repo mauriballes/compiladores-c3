@@ -10,7 +10,7 @@ Un agradecimiento muy especial a arngarden, quien aporto con sus
 librerias escritas en Python que realizaban las acciones de lectura
 y escritura en datastream similares a Java.
 
-Finalmente les dejo el link al repositorio de arngarden de la [libreria](https://github.com/arngarden/python_java_datastream).
+Finalmente les dejo el link al repositorio de @arngarden de la [libreria](https://github.com/arngarden/python_java_datastream).
 
 ## Modo de Uso
 
