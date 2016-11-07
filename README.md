@@ -2,9 +2,9 @@
 
 El proyecto es un interprete de C3 (Codigo 3) que fue desarrollado
 en la materia de Compiladores de la Carrera de Ing. Informatica
-con el Docente Ing. Gino Barroso, quien fue el que aporto con gran
-parte del codigo, el cual estaba originalmente escrito en `Java` y que 
-luego fue transcrito a `Python` por mi persona.
+con el Docente Ing. Gino Barroso de la UAGRM, quien fue el que aporto 
+con gran parte del codigo, el cual estaba originalmente escrito en `Java` 
+y que luego fue transcrito a `Python` por mi persona.
 
 Un agradecimiento muy especial a arngarden, quien aporto con sus
 librerias escritas en Python que realizaban las acciones de lectura
